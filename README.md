@@ -27,7 +27,7 @@
     <td>O (N logN)</td>
     <td>O (N)</td>
     <td>Yes</td>
-    <td>Code</td>
+    <td><a href="https://github.com/suppaGonzal0/Sorting-Algorithms/blob/master/MergeSort.java">Link</a></td>
   </tr>
   <tr>
     <td>Selection Sort</td>
