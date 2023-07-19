@@ -34,7 +34,7 @@
     <td>O (n<sup>2</sup>)</td>
     <td>1</td>
     <td>No</td>
-    <td>Code</td>
+    <td><a href="https://github.com/suppaGonzal0/Sorting-Algorithms/blob/master/SelectionSort.java">Link</a></td>
   </tr>
   <tr>
     <td>Insertion Sort</td>
