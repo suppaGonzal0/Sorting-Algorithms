@@ -1,6 +1,6 @@
 # Sorting-Algorithms
 
-<table>
+<table>   
   <tr>
     <th>Name</th>
     <th>Time</th>
@@ -13,7 +13,7 @@
     <td>O (N<sup>2</sup>)</td>
     <td>1</td>
     <td>Yes</td>
-    <td>Code</td>
+    <td><a href="https://github.com/suppaGonzal0/Sorting-Algorithms/blob/master/BubbleSort.java">Link</a></td>
   </tr>
   <tr>
     <td>Quick Sort</td>
